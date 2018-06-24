@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[The script should be successful]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2018-06-24T15:46:07Z" finished-at="2018-06-24T15:46:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2018-06-24T15:46:07Z" finished-at="2018-06-24T15:46:07Z">
+      <class name="com.execution.Sampletest">
+        <test-method status="PASS" signature="executionApp()[pri:0, instance:com.execution.Sampletest@6cc4c815]" name="executionApp" duration-ms="17" started-at="2018-06-24T21:16:07Z" finished-at="2018-06-24T21:16:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The script should be successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionApp -->
+      </class> <!-- com.execution.Sampletest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
